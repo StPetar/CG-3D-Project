@@ -1,6 +1,4 @@
-# OpenGLSampleCmake
-
-## Statue of Saint Florian
+# Statue of Saint Florian
 Made in OpenGL/C++ as part of 3D-project for Computer Graphics by Prof. Alfred M. Franz at Technical University Ulm
 
 
